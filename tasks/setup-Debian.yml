@@ -48,4 +48,3 @@
 - name: Install pexpect
   pip:
     name: pexpect
-

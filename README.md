@@ -2,7 +2,7 @@ Ansible's Kamailio role
 =========================
 
 This role is intendent to replicate the steps to compile kamailio from the git repository. 
-You can find the original steps at https://www.kamailio.org/wiki/install/4.4.x/git
+You can find the original steps at https://kamailio.org/docs/tutorials/5.3.x/kamailio-install-guide-git/
 
 The intention is to have a kamailio role multi plattform.
 

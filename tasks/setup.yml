@@ -10,7 +10,7 @@
     dest: "{{ git_clone }}"
     recursive: no
     clone: yes
-    version: origin/4.4
+    version: origin/5.3
 
 
 - name: Generate build config files
