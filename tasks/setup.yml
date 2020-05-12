@@ -90,6 +90,6 @@
     
 - name: Copying systemd script
   copy:
-    src: files/kamailio.service
-    dest: /etc/systemd/system/
+    src: files/kamailio.service.debian9
+    dest: /etc/systemd/system/kamailio.service
     mode: 0755

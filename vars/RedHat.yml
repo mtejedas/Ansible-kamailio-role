@@ -1,1 +1,3 @@
 sudo_group: wheel
+
+dest_directory: /usr/src/kamailio-{{ kamailio_version }}
